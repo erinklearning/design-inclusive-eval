@@ -1429,144 +1429,144 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns00001100101">
-      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
-      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
-      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
-      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
-      <string id="acc_locked">locked</string>
-      <string id="acc_modern_video_captions">video captions</string>
-      <string id="acc_modern_video_fullscreen">full-screen video</string>
-      <string id="acc_modern_video_mute">mute video</string>
-      <string id="acc_modern_video_pause">pause video</string>
-      <string id="acc_modern_video_pip">picture-in-picture</string>
-      <string id="acc_modern_video_play">play video</string>
-      <string id="acc_modern_video_playback_speed">playback speed</string>
-      <string id="acc_modern_video_settings">video settings</string>
-      <string id="acc_modern_video_transcript">Open</string>
-      <string id="acc_modern_video_volume">video volume</string>
-      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
-      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
-      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
-      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
-      <string id="acc_play">Play (Ctrl+Alt+P)</string>
-      <string id="acc_playback_speed">Playback speed</string>
-      <string id="acc_previous">Previous (Ctrl+Alt+Comma)</string>
-      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
-      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
-      <string id="acc_search_input">search</string>
-      <string id="acc_settings">Settings</string>
-      <string id="acc_skipnavigation">Back to top</string>
-      <string id="acc_slide_progress">slide progress</string>
-      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
-      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
-      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
-      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
-      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
-      <string id="acc_video_transcript_list">Transcript</string>
-      <string id="acc_visited">visited</string>
-      <string id="acc_window_close">Close</string>
-      <string id="acc_window_move">Move window</string>
-      <string id="acc_window_options">Options</string>
-      <string id="acc_window_resize">Resize window</string>
-      <string id="accessible_text">Accessible text</string>
-      <string id="acctext_shortcut">Toggle accessible text</string>
-      <string id="action">Action</string>
-      <string id="alt_key">Alt</string>
-      <string id="background_audio">Background audio</string>
-      <string id="background_audio_shortcut">Toggle background audio</string>
-      <string id="clear">Clear and return to menu</string>
-      <string id="close">Close</string>
-      <string id="closed_captions">Captions</string>
-      <string id="closedcaptions_shortcut">Toggle captions</string>
-      <string id="continue">Continue</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="ctrl_key">Ctrl</string>
-      <string id="desktop_start">Start Course</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
-      <string id="filter">Filter</string>
-      <string id="fullscreen_shortcut">Toggle full-screen</string>
-      <string id="glossary">Glossary</string>
-      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
-      <string id="mobile_start">Start Course</string>
-      <string id="modern_video_captions_label">Captions</string>
-      <string id="modern_video_captions_off">Off</string>
-      <string id="modern_video_captions_on">On</string>
-      <string id="modern_video_normal_speed">Normal</string>
-      <string id="modern_video_playback_settings">Video Playback Settings</string>
-      <string id="modern_video_playback_speed_title">Playback Speed</string>
-      <string id="modern_video_settings_close">close video settings</string>
-      <string id="mute_shortcut">Mute / unmute</string>
-      <string id="next">NEXT</string>
-      <string id="next_shortcut">Next</string>
-      <string id="outline">Menu</string>
-      <string id="playback_speed_normal">Normal</string>
-      <string id="playback_speed_title">Playback Speed</string>
-      <string id="playpause_shortcut">Play / pause</string>
-      <string id="prev">PREV</string>
-      <string id="previous_shortcut">Previous</string>
-      <string id="progress_hour">hour</string>
-      <string id="progress_hours">hours</string>
-      <string id="progress_minute">minute</string>
-      <string id="progress_minutes">minutes</string>
-      <string id="progress_second">second</string>
-      <string id="progress_seconds">seconds</string>
-      <string id="replay_shortcut">Replay</string>
-      <string id="resources">Resources</string>
-      <string id="restart">Restart</string>
-      <string id="resume">Resume</string>
-      <string id="search">Search...</string>
-      <string id="search_in">Search in:</string>
-      <string id="search_results">Search Results</string>
-      <string id="search_toggle">Search</string>
-      <string id="shift_key">Shift</string>
-      <string id="shortcut">Shortcut</string>
-      <string id="shortcuthelp">List keyboard shortcuts</string>
-      <string id="sidebar_toggle">Sidebar Toggle</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="streaming_video_local_playback_learn_more">Learn More</string>
-      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
-      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
-      <string id="submit">SUBMIT</string>
-      <string id="submit_shortcut">Submit</string>
-      <string id="terms">Terms</string>
+      <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
       <string id="three_image_camera_left">camera moved left</string>
       <string id="three_image_camera_right">camera moved right</string>
       <string id="three_image_camera_up">camera moved up</string>
-      <string id="three_image_count_of_total">%count% of %total%</string>
-      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
-      <string id="three_image_hotspot">hotspot</string>
-      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
-      <string id="three_image_interaction">360 degree image interaction</string>
       <string id="three_image_interaction_free">free exploration mode</string>
       <string id="three_image_interaction_guided">guided tour mode</string>
-      <string id="three_image_interaction_next">next</string>
-      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
       <string id="three_image_label">label</string>
       <string id="three_image_marker">marker</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="three_image_interaction_next">next</string>
       <string id="three_image_pause_audio">pause audio</string>
       <string id="three_image_pause_video">pause video</string>
       <string id="three_image_play_audio">play audio</string>
       <string id="three_image_play_video">play video</string>
-      <string id="three_image_progress_audio">progress</string>
-      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
       <string id="three_image_tooltip">tooltip</string>
-      <string id="three_image_total_item">%total% item</string>
       <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
       <string id="three_image_video">video</string>
       <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="background_audio">Background audio</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="closed_captions">Captions</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="next">NEXT</string>
+      <string id="prev">PREV</string>
+      <string id="submit">SUBMIT</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="continue">Continue</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
       <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
       <string id="transcript">Notes</string>
-      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="close">Close</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
+      <string id="acc_previous">Previous (Ctrl+Alt+Comma)</string>
+      <string id="acc_search_input">search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="search_in">Search in:</string>
+      <string id="filter">Filter</string>
+      <string id="search">Search...</string>
       <string id="transcript_chk">Notes</string>
-      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="search_results">Search Results</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
+      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
+      <string id="acc_play">Play (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
+      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
+      <string id="search_toggle">Search</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_window_resize">Resize window</string>
       <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
       <string id="video_transcript_select_track">Select track</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
       <string id="video_transcript_title">Transcripts</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_window_options">Options</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1583,67 +1583,88 @@
       <links>
         <slidelink slideid="_player.5mTBU9OwfpN" displaytext="Introduction" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.5mTBU9OwfpN.5WFR6t5cNvp" displaytext="DESIGNING &amp;amp; IMPLEMENTING INCLUSIVE PERFORMANCE EVALUATION SYSTEMS" expand="false" type="slide" />
+            <slidelink slideid="_player.5mTBU9OwfpN.5otRHnqk33z" displaytext="COURSE INTRODUCTION " expand="false" type="slide" />
             <slidelink slideid="_player.5mTBU9OwfpN.6pDq8VrWdCt" displaytext="ENHANCING TEAM SUCCESS " expand="false" type="slide" />
             <slidelink slideid="_player.5mTBU9OwfpN.5k3Lg6lxb3H" displaytext="COURSE OBJECTIVES" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Wy1HrFthBw" displaytext="Module 1" expand="false" type="slide">
+          <links>
             <slidelink slideid="_player.6Wy1HrFthBw.5kwc0SnyGkj" displaytext="MODULE 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5y8Sm5MxjZS.6etBJFGh9jL" displaytext="MODULE 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.6dFKkWCie4Z" displaytext="MODULE 3" expand="false" type="slide" />
             <slidelink slideid="_player.6Wy1HrFthBw.5glP3s1YT3u" displaytext="MODULE 1 ACTIVITIES" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.5q1890pv8pI" displaytext="MODULE 3 ACTIVITIES&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.5zZq2gHEhSW" displaytext="RECENCY BIAS" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.6QiZh4RMxdk" displaytext="REDUCING RECENCY BIAS" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.5WuPh9qgB7N" displaytext="THE HALO EFFECT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.6hQiLy1uTQL" displaytext="RETENTION &amp;amp; BIAS" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.5lQb3wdikTL" displaytext="ALLEVIATING THE HALO EFFECT" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.6bNJmfR6qD8" displaytext="CONFIRMATION BIAS  MITIGATION &#xA;STRATEGIES" expand="false" type="slide" />
-            <slidelink slideid="_player.6lZJOrv62CP.6WbB68m3vl4" displaytext="FINAL COURSE ACTIVITY: CASE STUDY " expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.5ik2D4kr77Q" displaytext="ACTIVITY: DEVELOPING AN EVALUATION RUBRIC" expand="false" type="slide" />
-            <slidelink slideid="_player.6lZJOrv62CP.5jJ0lhxzl0t" displaytext="CHRIS" expand="false" type="slide" />
-            <slidelink slideid="_player.6lZJOrv62CP.6MltBZPloG7" displaytext="KAREEM" expand="false" type="slide" />
-            <slidelink slideid="_player.6lZJOrv62CP.6b5V2o6lA2Y" displaytext="MARIA" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZnwfXo3Cs0.6l56NgIKGpW" displaytext="CONFIRMATION BIAS" expand="false" type="slide" />
-            <slidelink slideid="_player.5y8Sm5MxjZS.5odYkktq3Vg" displaytext="MODULE 2 ACTIVITIES&#xA;" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.5YaZJD72BTP" displaytext="DEFINING AND ALIGNING KPIs FOR INDIVIDUAL GOALS " expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.5iPfjefPiOS" displaytext="FOUNDATIONS OF ALIGNING KPIs" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.60ewMCmsrEe" displaytext="CASE STUDY- ALEX" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.6GAIQBeyAEg" displaytext="DRAG &amp;amp; DROP ACTIVITY" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.5zYDdMQMVRd" displaytext="DRAG &amp;amp; DROP ACTIVITY" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.5jKl95b2JOV" displaytext="WHAT DOES SMART MEAN?" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.6dNYt3UyE85" displaytext="GREAT WORK!" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.5mgVcRPaQ3S" displaytext="SMART GOALS" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.6Hsko1gmLNP" displaytext="SMART GOAL EXAMPLE" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.659V5iHgij5" displaytext="SCENARIO BASED PRACTICE" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.6HftXc0F6y6" displaytext="VAGUE TO SPECIFIC GOALS 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Wy1HrFthBw.5zfGb4ZIkV4" displaytext="VAGUE TO SPECIFIC GOALS 2" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ns8s4j5ebs" displaytext="Module 1 Final Knowledge Check" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6ns8s4j5ebs.6cFGsWWuziW" displaytext="YOU’RE ALMOST THERE!" expand="false" type="slide" />
+            <slidelink slideid="_player.6ns8s4j5ebs.5wl6ncw0TO6" displaytext="QUESTION #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6ns8s4j5ebs.6Bz96mgYbXK" displaytext="QUESTION #2" expand="false" type="slide" />
+            <slidelink slideid="_player.6ns8s4j5ebs.6ZPohXKlxbU" displaytext="QUESTION #3" expand="false" type="slide" />
+            <slidelink slideid="_player.6ns8s4j5ebs.68PpImmJtAd" displaytext="QUESTION #4" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5y8Sm5MxjZS" displaytext="Module 2" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5y8Sm5MxjZS.6etBJFGh9jL" displaytext="MODULE 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5y8Sm5MxjZS.5odYkktq3Vg" displaytext="MODULE 2 ACTIVITIES " expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.5bZ6VYKH2UN" displaytext="QUALITY FEEDBACK" expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.5Vyinu76J63" displaytext="HIGH ACHIEVERS" expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.6CfsJrxvosa" displaytext="CONSISTENT PERFORMERS" expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.6kXsAcFDLsZ" displaytext="DEVELOPING PERFORMERS" expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.5q9LBl0EpZz" displaytext="UNDER-PERFORMERS" expand="false" type="slide" />
-            <slidelink slideid="_player.5y8Sm5MxjZS.68d3xtUUGjM" displaytext="SCENARIOS FOR DELIVERING &#xA;FEEDBACK" expand="false" type="slide" />
+            <slidelink slideid="_player.5y8Sm5MxjZS.68d3xtUUGjM" displaytext="SCENARIOS FOR DELIVERING FEEDBACK" expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.5vQ8xA6nVKK" displaytext="TRINA" expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.64TDZ9j22hZ" displaytext="ALEX" expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.6kSrfyons60" displaytext="MIA" expand="false" type="slide" />
             <slidelink slideid="_player.5y8Sm5MxjZS.6edVbp7TnXj" displaytext="JORDAN" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.5YaZJD72BTP" displaytext="DEFINING AND ALIGNING KPIs FOR INDIVIDUAL GOALS&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.6GAIQBeyAEg" displaytext="DRAG &amp;amp; DROP ACTIVITY" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.5zYDdMQMVRd" displaytext="DRAG &amp;amp; DROP ACTIVITY" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.6dNYt3UyE85" displaytext="GREAT WORK!" expand="false" type="slide" />
-            <slidelink slideid="_player.5YC2vEIMEiK.5s2iEQX6Ry8" displaytext="Module 2 Final Activity: Create Your Feedback Preparation Checklist" expand="false" type="slide" />
-            <slidelink slideid="_player.5YC2vEIMEiK.5h4jo7sqIY2" displaytext="PREPARING FEEDBACK" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.5mgVcRPaQ3S" displaytext="SMART GOALS" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.5jKl95b2JOV" displaytext="WHAT DOES SMART MEAN?" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.6Hsko1gmLNP" displaytext="SMART GOAL EXAMPLE" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.659V5iHgij5" displaytext="SCENARIO BASED PRACTICE" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.6HftXc0F6y6" displaytext="VAGUE TO SPECIFIC GOALS 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.5zfGb4ZIkV4" displaytext="VAGUE TO SPECIFIC GOALS 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6ns8s4j5ebs.6cFGsWWuziW" displaytext="YOU’RE ALMOST THERE!" expand="false" type="slide" />
-            <slidelink slideid="_player.68UJrnC8Qs3.6R5aKY4HfwT" displaytext="END OF COURSE" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.5iPfjefPiOS" displaytext="FOUNDATIONS OF ALIGNING KPIs" expand="false" type="slide" />
-            <slidelink slideid="_player.6Wy1HrFthBw.60ewMCmsrEe" displaytext="CASE STUDY- ALEX" expand="false" type="slide" />
-            <slidelink slideid="_player.6ns8s4j5ebs.5wl6ncw0TO6" displaytext="QUESTION #1" expand="false" type="slide" />
-            <slidelink slideid="_player.6ns8s4j5ebs.6Bz96mgYbXK" displaytext="QUESTION #2" expand="false" type="slide" />
-            <slidelink slideid="_player.6ns8s4j5ebs.6ZPohXKlxbU" displaytext="QUESTION #3" expand="false" type="slide" />
-            <slidelink slideid="_player.6ns8s4j5ebs.68PpImmJtAd" displaytext="QUESTION #4" expand="false" type="slide" />
-            <slidelink slideid="_player.5mTBU9OwfpN.5WFR6t5cNvp" displaytext="DESIGNING &amp;amp; IMPLEMENTING INCLUSIVE PERFORMANCE EVALUATION SYSTEMS" expand="false" type="slide" />
-            <slidelink slideid="_player.5mTBU9OwfpN.5otRHnqk33z" displaytext="COURSE INTRODUCTION " expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Module 1" expand="true" type="slide" />
-        <slidelink slideid="" displaytext="Module 1 Final Knowledge Check" expand="true" type="slide" />
-        <slidelink slideid="" displaytext="Module 2" expand="true" type="slide" />
-        <slidelink slideid="" displaytext="Module 2 Final Knowledge Check" expand="true" type="slide" />
-        <slidelink slideid="" displaytext="Module 3" expand="true" type="slide" />
-        <slidelink slideid="" displaytext="Module 3 Final Activity" expand="true" type="slide" />
-        <slidelink slideid="" displaytext="Exit Course" expand="true" type="slide" />
+        <slidelink slideid="_player.5YC2vEIMEiK" displaytext="Module 2 Final Knowledge Check" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5YC2vEIMEiK.5s2iEQX6Ry8" displaytext="Module 2 Final Activity: Create Your Feedback Preparation Checklist" expand="false" type="slide" />
+            <slidelink slideid="_player.5YC2vEIMEiK.5h4jo7sqIY2" displaytext="PREPARING FEEDBACK" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ZnwfXo3Cs0" displaytext="Module 3" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.6ZnwfXo3Cs0.6dFKkWCie4Z" displaytext="MODULE 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.5q1890pv8pI" displaytext="MODULE 3 ACTIVITIES " expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.5zZq2gHEhSW" displaytext="RECENCY BIAS" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.6QiZh4RMxdk" displaytext="REDUCING RECENCY BIAS" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.5WuPh9qgB7N" displaytext="THE HALO EFFECT" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.6hQiLy1uTQL" displaytext="RETENTION &amp;amp; BIAS" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.5lQb3wdikTL" displaytext="ALLEVIATING THE HALO EFFECT" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.6l56NgIKGpW" displaytext="CONFIRMATION BIAS" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.6bNJmfR6qD8" displaytext="CONFIRMATION BIAS  MITIGATION STRATEGIES" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZnwfXo3Cs0.5ik2D4kr77Q" displaytext="ACTIVITY: DEVELOPING AN EVALUATION RUBRIC" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6lZJOrv62CP" displaytext="Module 3 Final Activity" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6lZJOrv62CP.6WbB68m3vl4" displaytext="FINAL COURSE ACTIVITY: CASE STUDY " expand="false" type="slide" />
+            <slidelink slideid="_player.6lZJOrv62CP.5jJ0lhxzl0t" displaytext="CHRIS" expand="false" type="slide" />
+            <slidelink slideid="_player.6lZJOrv62CP.6b5V2o6lA2Y" displaytext="MARIA" expand="false" type="slide" />
+            <slidelink slideid="_player.6lZJOrv62CP.6MltBZPloG7" displaytext="KAREEM" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.68UJrnC8Qs3" displaytext="Exit Course" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.68UJrnC8Qs3.6R5aKY4HfwT" displaytext="END OF COURSE" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
